@@ -238,7 +238,7 @@
     <link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512x512.png">
     <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
     <!-- Cookie Consent -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
@@ -333,7 +333,7 @@
     </svg>
   </button>
 
-  <button class="phone-header-btn" data-phone="[business_phone]" aria-label="Call">
+  <button class="phone-header-btn" data-phone="+972537495789" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
@@ -342,7 +342,7 @@
   <div class="nav-container">
     <div class="nav-right-group"><div class="nav-brand">
       <a href="/" class="logo-link">
-        <img src="/assets/business-logo.webp" alt="חניון שגיא אילת" class="logo" />
+        <img src="/assets/business-logo.webp" alt="חניון שגיא אילת" class="logo">
       </a>
     </div><ul class="nav-menu" id="navMenu"><li><a href="/facility-security">מתקן ואבטחה</a></li><li><a href="/location-access">מיקום וגישה</a></li></ul></div>
 
@@ -736,7 +736,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '+972537495789';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -806,7 +806,7 @@
   <div class="contact-intro-section__container">
     <!-- Text content -->
     <div class="contact-intro-section__text">
-      <span class="contact-intro-section__label">צרו קשר</span>
+      <span class="contact-intro-section__label">הכרמל 20, אילת, ישראל</span>
       <h1 class="contact-intro-section__heading">דברו איתנו — אנחנו כאן לעזור</h1>
       <p class="contact-intro-section__description">יש לכם שאלות על חניה, גישה לחניון, שירות ההסעות לעיר ולמעברי הגבול, או שאתם מחפשים חניון מאובטח באילת? צוות חניון שגיא אילת כאן לענות על כל שאלה — בין אם אתם נהגים מקומיים, תיירים, או מטיילים בדרך לגבול. פנו אלינו ונחזור אליכם בהקדם.</p>
       <div class="contact-intro-section__badges">
@@ -886,15 +886,15 @@
           </div>
 
           <div class="ccf-contact-details">
-            <a href="tel:[business_phone]" class="ccf-contact-link">
+            <a href="tel:+972537495789" class="ccf-contact-link">
               <i class="fa fa-phone" aria-hidden="true"></i>
-              <span>[business_phone]</span>
+              <span>הכרמל 20, אילת, ישראל</span>
             </a>
-            <a href="mailto:[business_email]" class="ccf-contact-link">
+            <a href="mailto:eli056469523@gmail.com" class="ccf-contact-link">
               <i class="fa fa-envelope" aria-hidden="true"></i>
-              <span>[business_email]</span>
+              <span>eli056469523@gmail.com</span>
             </a>
-            <a href="https://maps.google.com/?q=[business_address]" target="_blank" rel="noopener noreferrer" class="ccf-contact-link">
+            <a href="https://maps.google.com/?q=הכרמל 20, אילת, ישראל" target="_blank" rel="noopener noreferrer" class="ccf-contact-link">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>הכרמל 20, אילת</span>
             </a>
@@ -1048,12 +1048,12 @@
     <div class="footer-top">
       <!-- Company Info -->
       <div class="footer-col footer-brand">
-        <img src="/assets/business-logo.webp" alt="חניון שגיא אילת" class="logo" />
+        <img src="/assets/business-logo.webp" alt="חניון שגיא אילת" class="logo">
         <p class="brand-desc">חניון שגיא אילת מציע שירותי חניה מקצועיים, בטוחים ונוחים במרכז העיר אילת. אנו מחויבים לספק חוויית חניה מהירה ואמינה לכל לקוחותינו.</p>
         <div class="social-links">
-          <a href="[facebook_handle]" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-          <a href="[instagram_handle]" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-          <a href="[whatsapp_handle]" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+          <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
+          <a href="#" aria-label="Instagram" style="display:none !important;"><i class="fab fa-instagram"></i></a>
+          <a href="#" aria-label="WhatsApp" style="display:none !important;"><i class="fab fa-whatsapp"></i></a>
         </div>
       </div>
 
@@ -1079,14 +1079,14 @@
         <ul class="contact-list">
           <li>
             <span class="contact-icon"><i class="fas fa-envelope"></i></span>
-            <a href="mailto:[business_email]">[business_email]</a>
+            <a href="mailto:eli056469523@gmail.com">eli056469523@gmail.com</a>
           </li>
           <li>
             <span class="contact-icon"><i class="fas fa-phone-alt"></i></span>
-            <a href="tel:[business_phone]">[business_phone]</a>
+            <a href="tel:+972537495789">+972537495789</a>
           </li>
           <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
-            <span>[business_address]</span></a></li>
+            <span>הכרמל 20, אילת, ישראל</span></a></li>
         </ul>
       </div>
 
