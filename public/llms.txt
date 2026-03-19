@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חניון שגיא אילת מציע עד 600 מקומות חניה מסומנים, מצלמות אבטחה, גדר היקפית ושירות הסעות לעיר ולמעברי הגבול. החניון המאובטח והזול ביותר באילת — הזמינו מקום עוד היום!
+
+### מתקן ואבטחה
+https://example.com/facility-security
+מצלמות אבטחה מתקדמות, גדר היקפית ומערכת שערים חכמה שומרות על רכבכם בכל שעה. חניון מאובטח לרכב באילת עם תשתית מקצועית ומשרד שירות לקוחות זמין — הרכב שלכם בידיים טובות.
+
+### מיקום וגישה
+https://example.com/location-access
+חניון שגיא אילת ממוקם בהכרמל 20, משמאל לתחנת דלק צוף ים. נגיש בקלות לתיירים, תושבים ונוסעים למעברי הגבול, עם שירות הסעות נוח לכל יעד באילת. נווטו אלינו עכשיו!
+
+### צור קשר
+https://example.com/contact
+יש שאלות על מחירים, זמינות או שירות הסעות? צוות חניון שגיא אילת זמין עבורכם. צרו קשר עוד היום ותבטיחו את מקום החניה הזול והמאובטח שלכם באילת — אנחנו כאן לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
