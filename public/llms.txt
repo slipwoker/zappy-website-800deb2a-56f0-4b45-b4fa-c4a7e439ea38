@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# חניון שגיא אילת — Generative Engine Optimization Map
+
+> A private parking lot located in Eilat at HaCarmel 20, situated on the left side past the Tzof Yam fuel station. The facility offers up to 600 standard marked asphalt parking spaces for private vehicles and jeeps, equipped with security cameras, full perimeter fencing, an advanced gate system, and a customer service office. The lot also provides shuttle services to the city and border crossings, positioning it as a comprehensive, secure, and convenient parking solution for tourists, residents, and cross-border travelers in the Eilat area.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://hanyon-sagai-eilat.zappy5.app
 חניון שגיא אילת מציע עד 600 מקומות חניה מסומנים, מצלמות אבטחה, גדר היקפית ושירות הסעות לעיר ולמעברי הגבול. החניון המאובטח והזול ביותר באילת — הזמינו מקום עוד היום!
 
 ### מתקן ואבטחה
-https://example.com/facility-security
+https://hanyon-sagai-eilat.zappy5.app/facility-security
 מצלמות אבטחה מתקדמות, גדר היקפית ומערכת שערים חכמה שומרות על רכבכם בכל שעה. חניון מאובטח לרכב באילת עם תשתית מקצועית ומשרד שירות לקוחות זמין — הרכב שלכם בידיים טובות.
 
 ### מיקום וגישה
-https://example.com/location-access
+https://hanyon-sagai-eilat.zappy5.app/location-access
 חניון שגיא אילת ממוקם בהכרמל 20, משמאל לתחנת דלק צוף ים. נגיש בקלות לתיירים, תושבים ונוסעים למעברי הגבול, עם שירות הסעות נוח לכל יעד באילת. נווטו אלינו עכשיו!
 
 ### צור קשר
-https://example.com/contact
+https://hanyon-sagai-eilat.zappy5.app/contact
 יש שאלות על מחירים, זמינות או שירות הסעות? צוות חניון שגיא אילת זמין עבורכם. צרו קשר עוד היום ותבטיחו את מקום החניה הזול והמאובטח שלכם באילת — אנחנו כאן לעזור!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hanyon-sagai-eilat.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hanyon-sagai-eilat.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hanyon-sagai-eilat.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About חניון שגיא אילת
+A private parking lot located in Eilat at HaCarmel 20, situated on the left side past the Tzof Yam fuel station. The facility offers up to 600 standard marked asphalt parking spaces for private vehicles and jeeps, equipped with security cameras, full perimeter fencing, an advanced gate system, and a customer service office. The lot also provides shuttle services to the city and border crossings, positioning it as a comprehensive, secure, and convenient parking solution for tourists, residents, and cross-border travelers in the Eilat area.
+
+## Target Audience
+נהגים, תיירים ותושבי אילת, מבקרי גבולות
+
+## Industry
+חניה ותחבורה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://hanyon-sagai-eilat.zappy5.app/sitemap.xml
+- **Robots.txt**: https://hanyon-sagai-eilat.zappy5.app/robots.txt
