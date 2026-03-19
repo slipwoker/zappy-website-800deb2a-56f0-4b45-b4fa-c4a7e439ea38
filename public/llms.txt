@@ -1,6 +1,4 @@
-# חניון שגיא אילת — Generative Engine Optimization Map
-
-> A private parking lot located in Eilat at HaCarmel 20, situated on the left side past the Tzof Yam fuel station. The facility offers up to 600 standard marked asphalt parking spaces for private vehicles and jeeps, equipped with security cameras, full perimeter fencing, an advanced gate system, and a customer service office. The lot also provides shuttle services to the city and border crossings, positioning it as a comprehensive, secure, and convenient parking solution for tourists, residents, and cross-border travelers in the Eilat area.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About חניון שגיא אילת
-A private parking lot located in Eilat at HaCarmel 20, situated on the left side past the Tzof Yam fuel station. The facility offers up to 600 standard marked asphalt parking spaces for private vehicles and jeeps, equipped with security cameras, full perimeter fencing, an advanced gate system, and a customer service office. The lot also provides shuttle services to the city and border crossings, positioning it as a comprehensive, secure, and convenient parking solution for tourists, residents, and cross-border travelers in the Eilat area.
-
-## Target Audience
-נהגים, תיירים ותושבי אילת, מבקרי גבולות
-
-## Industry
-חניה ותחבורה
-
+## About Business
 ---
 
 # Additional Resources
